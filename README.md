@@ -72,13 +72,15 @@ The following are some of the projects that I completed as a self-taught Develop
 - Independent learner and problem-solver
 - OOP
 
-| Best Practices    | Web Languages |  Layout model | 
-|------------------ |---------------|---------------|
+| Best Practices    | Web Languages |  Layout model |  Framwork | 
+|------------------ |---------------|---------------|---------------|
 |                   | ruby
-| MVC (learning )   | Vanilla JavaScript
-| Responsive Design | CSS3 | FlexBox
+| MVC (learning )   | Vanilla JavaScript ES5/ES6 |           | React (learning)
+| Responsive Design | CSS3 (Sass learning) | FlexBox
 | TDD (in progress) |
+| GIT |
 | Pairing |
+
 
 
 ####  First experience as a Mentor at [Codebar](https://codebar.io/)
